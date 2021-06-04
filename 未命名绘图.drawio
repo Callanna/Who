@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-04T12:35:59.872Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="OF1CclxQNiB1Fbb3lHiK" version="14.7.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-06-04T17:52:54.620Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="U8GJiYAiccqQTcqSBQcH" version="14.7.3" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1485" dy="1565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -305,10 +305,90 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cBeFvrKGKyr9zMsI_i6B" name="Page-3">
-    <mxGraphModel dx="658" dy="396" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1485" dy="351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="2VpDLlLtvI7oMPjjGJ1F-0" />
         <mxCell id="2VpDLlLtvI7oMPjjGJ1F-1" parent="2VpDLlLtvI7oMPjjGJ1F-0" />
+        <mxCell id="2VpDLlLtvI7oMPjjGJ1F-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2VpDLlLtvI7oMPjjGJ1F-1" source="2VpDLlLtvI7oMPjjGJ1F-2" target="2VpDLlLtvI7oMPjjGJ1F-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2VpDLlLtvI7oMPjjGJ1F-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="2VpDLlLtvI7oMPjjGJ1F-1" source="2VpDLlLtvI7oMPjjGJ1F-2" target="2VpDLlLtvI7oMPjjGJ1F-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2VpDLlLtvI7oMPjjGJ1F-2" value="打开APP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="2VpDLlLtvI7oMPjjGJ1F-1">
+          <mxGeometry x="170" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2VpDLlLtvI7oMPjjGJ1F-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2VpDLlLtvI7oMPjjGJ1F-1" source="2VpDLlLtvI7oMPjjGJ1F-3" target="2VpDLlLtvI7oMPjjGJ1F-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2VpDLlLtvI7oMPjjGJ1F-3" value="App首页" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="2VpDLlLtvI7oMPjjGJ1F-1">
+          <mxGeometry x="90" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2VpDLlLtvI7oMPjjGJ1F-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2VpDLlLtvI7oMPjjGJ1F-1" source="2VpDLlLtvI7oMPjjGJ1F-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="360" />
+              <mxPoint x="230" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2VpDLlLtvI7oMPjjGJ1F-5" value="我的页面" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="2VpDLlLtvI7oMPjjGJ1F-1">
+          <mxGeometry x="270" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2VpDLlLtvI7oMPjjGJ1F-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2VpDLlLtvI7oMPjjGJ1F-1" source="2VpDLlLtvI7oMPjjGJ1F-7" target="2VpDLlLtvI7oMPjjGJ1F-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2VpDLlLtvI7oMPjjGJ1F-7" value="添加banner控件" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="2VpDLlLtvI7oMPjjGJ1F-1">
+          <mxGeometry x="170" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2VpDLlLtvI7oMPjjGJ1F-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2VpDLlLtvI7oMPjjGJ1F-1" source="2VpDLlLtvI7oMPjjGJ1F-10" target="2VpDLlLtvI7oMPjjGJ1F-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2VpDLlLtvI7oMPjjGJ1F-10" value="获取数据" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="2VpDLlLtvI7oMPjjGJ1F-1">
+          <mxGeometry x="170" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2VpDLlLtvI7oMPjjGJ1F-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2VpDLlLtvI7oMPjjGJ1F-1" source="2VpDLlLtvI7oMPjjGJ1F-12" target="2VpDLlLtvI7oMPjjGJ1F-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2VpDLlLtvI7oMPjjGJ1F-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2VpDLlLtvI7oMPjjGJ1F-1" source="2VpDLlLtvI7oMPjjGJ1F-12" target="2VpDLlLtvI7oMPjjGJ1F-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2VpDLlLtvI7oMPjjGJ1F-12" value="banner初始化&lt;br&gt;数据和加载图片" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="2VpDLlLtvI7oMPjjGJ1F-1">
+          <mxGeometry x="170" y="584.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2VpDLlLtvI7oMPjjGJ1F-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2VpDLlLtvI7oMPjjGJ1F-1" source="2VpDLlLtvI7oMPjjGJ1F-14" target="2VpDLlLtvI7oMPjjGJ1F-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2VpDLlLtvI7oMPjjGJ1F-14" value="关闭控件" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="2VpDLlLtvI7oMPjjGJ1F-1">
+          <mxGeometry x="170" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2VpDLlLtvI7oMPjjGJ1F-16" value="点击控件根据url连接跳转web页面" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="2VpDLlLtvI7oMPjjGJ1F-1">
+          <mxGeometry x="370" y="584.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2VpDLlLtvI7oMPjjGJ1F-18" value="app生命周期内不再显示。&lt;br&gt;（杀掉app重启才显示）" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="2VpDLlLtvI7oMPjjGJ1F-1">
+          <mxGeometry x="370" y="680" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2VpDLlLtvI7oMPjjGJ1F-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2VpDLlLtvI7oMPjjGJ1F-1" source="2VpDLlLtvI7oMPjjGJ1F-21" target="2VpDLlLtvI7oMPjjGJ1F-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2VpDLlLtvI7oMPjjGJ1F-21" value="首页数据下拉刷新，家庭切换触发数据刷新" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="2VpDLlLtvI7oMPjjGJ1F-1">
+          <mxGeometry x="-110" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2VpDLlLtvI7oMPjjGJ1F-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2VpDLlLtvI7oMPjjGJ1F-1" source="2VpDLlLtvI7oMPjjGJ1F-24" target="2VpDLlLtvI7oMPjjGJ1F-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2VpDLlLtvI7oMPjjGJ1F-24" value="tab切换到我的界面加载数据，一个生命周期只加载一次" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="2VpDLlLtvI7oMPjjGJ1F-1">
+          <mxGeometry x="470" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="fOXhT6K1tIqI8AFxn5EN" name="Page-4">
+    <mxGraphModel dx="658" dy="351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="LGedE3TZ1xUa4qot66G5-0" />
+        <mxCell id="LGedE3TZ1xUa4qot66G5-1" parent="LGedE3TZ1xUa4qot66G5-0" />
       </root>
     </mxGraphModel>
   </diagram>
