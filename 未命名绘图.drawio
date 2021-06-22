@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-22T07:17:13.133Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="3q9fjQOLhlaa8EWvKU6K" version="14.7.9" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2021-06-22T07:24:44.977Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="mE8iP3VdPvQqjtCiPEPR" version="14.7.9" type="github" pages="13">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1773" dy="1704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1426,6 +1426,65 @@
       <root>
         <mxCell id="SchltdHh7aF2TAhO51LY-0" />
         <mxCell id="SchltdHh7aF2TAhO51LY-1" parent="SchltdHh7aF2TAhO51LY-0" />
+        <mxCell id="SchltdHh7aF2TAhO51LY-4" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="SchltdHh7aF2TAhO51LY-1" source="SchltdHh7aF2TAhO51LY-2" target="SchltdHh7aF2TAhO51LY-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SchltdHh7aF2TAhO51LY-2" value="设备分享" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SchltdHh7aF2TAhO51LY-1">
+          <mxGeometry x="300" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SchltdHh7aF2TAhO51LY-6" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="SchltdHh7aF2TAhO51LY-1" source="SchltdHh7aF2TAhO51LY-3" target="SchltdHh7aF2TAhO51LY-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SchltdHh7aF2TAhO51LY-3" value="添加分享账号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SchltdHh7aF2TAhO51LY-1">
+          <mxGeometry x="300" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SchltdHh7aF2TAhO51LY-8" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="SchltdHh7aF2TAhO51LY-1" source="SchltdHh7aF2TAhO51LY-5" target="SchltdHh7aF2TAhO51LY-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SchltdHh7aF2TAhO51LY-5" value="生成设备唯一标识分享链接" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SchltdHh7aF2TAhO51LY-1">
+          <mxGeometry x="300" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SchltdHh7aF2TAhO51LY-10" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="SchltdHh7aF2TAhO51LY-1" source="SchltdHh7aF2TAhO51LY-7" target="SchltdHh7aF2TAhO51LY-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SchltdHh7aF2TAhO51LY-7" value="第三方账号，邮件，短信发送分享链接给被分享者" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SchltdHh7aF2TAhO51LY-1">
+          <mxGeometry x="300" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SchltdHh7aF2TAhO51LY-12" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="SchltdHh7aF2TAhO51LY-1" source="SchltdHh7aF2TAhO51LY-9" target="SchltdHh7aF2TAhO51LY-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SchltdHh7aF2TAhO51LY-9" value="被分享者直接打开链接&lt;br&gt;（移动web浏览器）" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="SchltdHh7aF2TAhO51LY-1">
+          <mxGeometry x="290" y="490" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SchltdHh7aF2TAhO51LY-14" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="SchltdHh7aF2TAhO51LY-1" source="SchltdHh7aF2TAhO51LY-11" target="SchltdHh7aF2TAhO51LY-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SchltdHh7aF2TAhO51LY-11" value="跳转打开智能家居app" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="SchltdHh7aF2TAhO51LY-1">
+          <mxGeometry x="285" y="600" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SchltdHh7aF2TAhO51LY-16" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="SchltdHh7aF2TAhO51LY-1" source="SchltdHh7aF2TAhO51LY-13" target="SchltdHh7aF2TAhO51LY-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SchltdHh7aF2TAhO51LY-13" value="弹出家庭分享是否接受提示弹框" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="SchltdHh7aF2TAhO51LY-1">
+          <mxGeometry x="267.5" y="700" width="185" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SchltdHh7aF2TAhO51LY-18" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="SchltdHh7aF2TAhO51LY-1" source="SchltdHh7aF2TAhO51LY-15" target="SchltdHh7aF2TAhO51LY-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SchltdHh7aF2TAhO51LY-15" value="接受邀请" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="SchltdHh7aF2TAhO51LY-1">
+          <mxGeometry x="300" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SchltdHh7aF2TAhO51LY-17" value="家庭分享成功" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="SchltdHh7aF2TAhO51LY-1">
+          <mxGeometry x="300" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="JX2754eNUJXS3PRdXydD" name="Page-13">
+    <mxGraphModel dx="946" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="MY6HwfjT0TV8ER2Ph6fS-0" />
+        <mxCell id="MY6HwfjT0TV8ER2Ph6fS-1" parent="MY6HwfjT0TV8ER2Ph6fS-0" />
       </root>
     </mxGraphModel>
   </diagram>
